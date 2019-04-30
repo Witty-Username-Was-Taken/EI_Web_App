@@ -1,4 +1,4 @@
-package edu.uga.cs.ei.newsfinder;
+package edu.uga.cs.ei.finalwebapp;
 
 import org.jboss.resteasy.client.jaxrs.ResteasyClient;
 import org.jboss.resteasy.client.jaxrs.ResteasyClientBuilder;
