@@ -9,7 +9,7 @@
         6. deploy
             7. client
      -->
-    <property name="projectname" value="ei_web_service"/>
+    <property name="projectname" value="ei_web_app"/>
 
     <path id="classpath">
         <fileset dir="web/WEB-INF/lib">
